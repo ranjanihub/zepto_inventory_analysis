@@ -121,10 +121,28 @@ cd zepto-inventory-analysis
 
 ---
 
+## 📊 Power BI Dashboard Overview
+
+Built an interactive Power BI dashboard that visualizes:
+
+* KPIs: Total Quantity, Available Quantity, Average Discount
+* Bar Chart: Quantity by Category
+* Pie Chart: Top 5 Products by Quantity
+* Donut Chart: Category-wise Discount Percent
+* Line Chart: Total Revenue vs Discount by Category
+* Area Chart: Product Weight by Name
+* Slicers: Category, Out-of-Stock filters
+
+![PowerBI](https://github.com/user-attachments/assets/c723224e-5f6e-463b-b40f-64361042efbc)
+
+
+---
+
 ## 🔧 Tools & Technologies
 
 * **SQL (PostgreSQL)**
 * **pgAdmin** for local SQL execution
+* **Power BI** for data visualization
 * **GitHub** for version control and documentation
 
 ---
